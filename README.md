@@ -41,12 +41,12 @@ repo-arduino/
 │── RGB/                  # Kontrol LED RGB
 │── SensorTanah/          # Sensor kelembaban tanah
 │── TA2021/               # Proyek TA 2021
-│── TugasW3S02/           # Tugas WS 302
+│── TugasW3S02/           # Tugas W3 Sesi 02
 │── UltraSonicSensor/     # Sensor ultrasonik
-│── W3S02_C1/             # Proyek WS 302 C1
-│── W3S02_C2/             # Proyek WS 302 C2
-│── W3S02_C3/             # Proyek WS 302 C3
-│── W3S02_C4/             # Proyek WS 302 C4
+│── W3S02_C1/             # Proyek Sistan Week 03 C1
+│── W3S02_C2/             # Proyek Sistan Week 03 C2
+│── W3S02_C3/             # Proyek Sistan Week 03 C3
+│── W3S02_C4/             # Proyek Sistan Week 03 C4
 │── sketch_feb6a/         # Sketch Arduino
 │── tempat_sampah/        # Proyek tempat sampah pintar
 │── .gitattributes        # Konfigurasi git
